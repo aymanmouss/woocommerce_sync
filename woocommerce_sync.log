@@ -1,0 +1,74 @@
+2024-12-16 16:50:07,765 - INFO - Fetched 177 products from Bluefin
+2024-12-16 16:50:09,355 - INFO - Fetched 207 products from WooCommerce
+2024-12-16 16:50:18,060 - INFO - Synchronization completed successfully
+2024-12-16 16:50:36,510 - INFO - Fetched 177 products from Bluefin
+2024-12-16 16:50:38,075 - INFO - Fetched 214 products from WooCommerce
+2024-12-16 16:50:46,643 - INFO - Synchronization completed successfully
+2024-12-16 18:07:41,365 - INFO - Fetched 175 products from Bluefin
+2024-12-16 18:07:42,958 - INFO - Fetched 214 products from WooCommerce
+2024-12-16 18:07:56,971 - INFO - Fetched 175 products from Bluefin
+2024-12-16 18:07:58,299 - INFO - Fetched 214 products from WooCommerce
+2024-12-16 18:08:07,535 - INFO - Synchronization completed successfully
+2024-12-17 20:43:36,610 - INFO - Fetched 161 products from Bluefin
+2024-12-17 20:43:39,323 - INFO - Fetched 214 products from WooCommerce
+2024-12-17 20:43:48,226 - INFO - Synchronization completed successfully
+2024-12-18 14:24:39,509 - INFO - Fetched 184 products from Bluefin
+2024-12-18 14:24:41,177 - INFO - Fetched 214 products from WooCommerce
+2024-12-18 14:24:52,510 - INFO - Synchronization completed successfully
+2024-12-19 00:02:43,325 - INFO - Fetched 162 products from Bluefin
+2024-12-19 00:02:44,956 - INFO - Fetched 240 products from WooCommerce
+2024-12-19 00:02:54,506 - INFO - Synchronization completed successfully
+2024-12-19 05:33:09,887 - INFO - Fetched 162 products from Bluefin
+2024-12-19 05:33:11,293 - INFO - Fetched 241 products from WooCommerce
+2024-12-19 05:33:21,236 - INFO - Synchronization completed successfully
+2024-12-19 14:23:46,449 - INFO - Fetched 170 products from Bluefin
+2024-12-19 14:23:48,093 - INFO - Fetched 241 products from WooCommerce
+2024-12-19 14:24:02,517 - INFO - Synchronization completed successfully
+2024-12-19 19:59:01,326 - INFO - Fetched 165 products from Bluefin
+2024-12-19 19:59:02,815 - INFO - Fetched 241 products from WooCommerce
+2024-12-19 19:59:11,970 - INFO - Synchronization completed successfully
+2024-12-20 01:16:38,408 - INFO - Fetched 165 products from Bluefin
+2024-12-20 01:16:40,065 - INFO - Fetched 241 products from WooCommerce
+2024-12-20 01:16:49,057 - INFO - Synchronization completed successfully
+2024-12-20 12:12:16,983 - INFO - Fetched 160 products from Bluefin
+2024-12-20 12:12:20,571 - INFO - Fetched 241 products from WooCommerce
+2024-12-20 12:12:31,939 - INFO - Synchronization completed successfully
+2024-12-20 12:12:36,724 - INFO - Fetched 160 products from Bluefin
+2024-12-20 12:12:37,990 - INFO - Fetched 241 products from WooCommerce
+2024-12-20 12:12:47,186 - INFO - Synchronization completed successfully
+2024-12-23 11:15:30,510 - ERROR - Failed to fetch stock data: 401 Client Error: Unauthorized for url: https://restful.bluefinmobileshop.com/getStock/?lang_id=0&price_drop=0
+2024-12-23 11:15:30,511 - ERROR - Synchronization failed: 401 Client Error: Unauthorized for url: https://restful.bluefinmobileshop.com/getStock/?lang_id=0&price_drop=0
+2024-12-23 11:15:30,511 - ERROR - Program failed: 401 Client Error: Unauthorized for url: https://restful.bluefinmobileshop.com/getStock/?lang_id=0&price_drop=0
+2024-12-25 13:06:27,402 - INFO - Fetched 175 products from Bluefin
+2024-12-25 13:06:27,505 - ERROR - Failed to fetch WooCommerce products page 1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 13:06:27,505 - ERROR - Synchronization failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 13:06:27,505 - ERROR - Program failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:50:05,210 - INFO - Fetched 175 products from Bluefin
+2024-12-25 22:50:05,304 - ERROR - Failed to fetch WooCommerce products page 1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:50:05,304 - ERROR - Synchronization failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:50:05,304 - ERROR - Program failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:51:42,587 - INFO - Fetched 175 products from Bluefin
+2024-12-25 22:51:42,664 - ERROR - Failed to fetch WooCommerce products page 1: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:51:42,665 - ERROR - Synchronization failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:51:42,665 - ERROR - Program failed: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-12-25 22:52:28,249 - INFO - Fetched 175 products from Bluefin
+2024-12-25 22:52:29,838 - INFO - Fetched 241 products from WooCommerce
+2024-12-25 22:52:39,812 - INFO - Synchronization completed successfully
+2024-12-26 15:30:07,085 - INFO - Fetched 172 products from Bluefin
+2024-12-26 15:30:08,807 - INFO - Fetched 265 products from WooCommerce
+2024-12-26 15:30:19,143 - INFO - Synchronization completed successfully
+2024-12-26 15:49:18,734 - INFO - Fetched 171 products from Bluefin (excluding 1 blacklisted SKUs)
+2024-12-26 15:49:20,377 - INFO - Fetched 265 products from WooCommerce
+2024-12-26 15:49:30,217 - INFO - Synchronization completed successfully
+2024-12-26 15:50:11,329 - INFO - Fetched 172 products from Bluefin (excluding 0 blacklisted SKUs)
+2024-12-26 15:50:13,139 - INFO - Fetched 265 products from WooCommerce
+2024-12-26 15:50:23,253 - INFO - Synchronization completed successfully
+2024-12-26 16:11:54,485 - INFO - Fetched 169 products from Bluefin (excluding 3 blacklisted SKUs)
+2024-12-26 16:11:56,236 - INFO - Fetched 262 products from WooCommerce
+2024-12-26 16:12:06,106 - INFO - Synchronization completed successfully
+2024-12-26 16:18:05,825 - INFO - Fetched 169 products from Bluefin (excluding 3 blacklisted SKUs)
+2024-12-26 16:18:07,483 - INFO - Fetched 262 products from WooCommerce
+2024-12-26 16:18:17,622 - INFO - Synchronization completed successfully
+2024-12-26 16:19:10,950 - INFO - Fetched 169 products from Bluefin (excluding 3 blacklisted SKUs)
+2024-12-26 16:19:12,609 - INFO - Fetched 262 products from WooCommerce
+2024-12-26 16:19:23,242 - INFO - Synchronization completed successfully
